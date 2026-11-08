@@ -19,10 +19,7 @@ ll n, m, cnt, T, ans;
 int main(){
 	cout << "Hello world" << endl; 
 	cout << "2" << endl;
-<<<<<<< HEAD
 	cout << 1 << endl;
-=======
->>>>>>> 99274a98b780de5eb1412934f9aba2d6b4aeb6b5
 	return 0;
 }
 
