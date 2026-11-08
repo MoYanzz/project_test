@@ -18,6 +18,8 @@ il ll rd(){
 ll n, m, cnt, T, ans;
 int main(){
 	cout << "Hello world" << endl; 
+	cout << "2" << endl;
+	cout << 1 << endl;
 	return 0;
 }
 
